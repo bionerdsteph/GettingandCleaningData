@@ -1,0 +1,8 @@
+There are 68 variables in the final table.
+
+The first lists the individual subject number.
+The second contains the activity being performed.
+The rest of the variables (3 through 68) contain the mean value for the mean or standard 
+        deviation reading of each type of motion along 1 of the three 
+        axis: X, Y or Z.
+        
